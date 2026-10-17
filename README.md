@@ -37,6 +37,6 @@ The project covers the following database design and implementation stages:
 University Group Project | Database Systems | SQL
 
 ## Project Report
-[View Project Report](Bookstore.pdf)
+[View Project Report](https://github.com/RazanAlshahrani/Bookstore-Database-System/blob/main/Bookstore.pdf)
 
 *This project was developed for academic purposes using a fictional bookstore scenario and sample data.*
